@@ -47,3 +47,8 @@ ngrjain,ngerjain
 tmn2,teman-teman
 dsb,dan sebagainya
 dll,dan lain-lain
+jgn,jangan
+algorithma,algoritma
+yg,yang
+y,ya
+dg,dengan
