@@ -52,3 +52,8 @@ algorithma,algoritma
 yg,yang
 y,ya
 dg,dengan
+dlm,dalam
+asingdengan,asing dengan
+bsa,bisa
+pohara,terlalu
+blas,sama sekali
