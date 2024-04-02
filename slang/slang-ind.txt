@@ -57,3 +57,17 @@ asingdengan,asing dengan
 bsa,bisa
 pohara,terlalu
 blas,sama sekali
+dr,dari
+ga,tidak
+klo,kalau
+kl,kalau
+dpt,dapat
+komplit,komplet
+bkin,bikin
+amsyong,tidak beruntung
+nntn,nonton
+gwa,saya
+gua,saya
+ane,saya
+ga,tidak
+tau,tahu
