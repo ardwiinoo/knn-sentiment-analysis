@@ -71,3 +71,12 @@ gua,saya
 ane,saya
 ga,tidak
 tau,tahu
+th,tuh
+thn,tahun
+yth,yang terhormat
+awal²,awal-awal
+spertinyaa,sepertinya
+ptarungann,pertarungan
+jd,jadi
+setaon,setahun
+skali,sekali
