@@ -1,4 +1,5 @@
 gw,saya
+w,saya
 lu,kamu
 ngga,tidak
 yoi,iya
@@ -80,3 +81,26 @@ ptarungann,pertarungan
 jd,jadi
 setaon,setahun
 skali,sekali
+inget,ingat
+buanyak,banyak
+dkk,dan kawan-kawan
+pnya,punya
+dgn,dengan
+lbh,lebih
+spt,seperti
+hrus,harus
+byk,banyak
+skr,sekarang
+tsb,tersebut
+drmn,dari mana
+udh,sudah
+aq,saya
+org,orang
+ngrusak,merusak
+kota²,kota-kota
+awan²,awan-awan
+cantik²,cantik-cantik
+tiba²,tiba-tiba
+drpd,daripada
+jkt,jakarta
+sblm,sebelum
