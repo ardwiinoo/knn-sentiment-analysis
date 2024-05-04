@@ -104,3 +104,6 @@ tiba²,tiba-tiba
 drpd,daripada
 jkt,jakarta
 sblm,sebelum
+hny,hanya
+dlu,dulu
+mlh,malah
