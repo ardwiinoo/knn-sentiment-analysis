@@ -134,3 +134,6 @@ padhl,padahal
 ad,ada
 krna,karena
 nnti,nanti
+ni,ini
+kalo,kalau
+contohny,contohnya
