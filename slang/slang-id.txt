@@ -2,6 +2,9 @@ gw,saya
 w,saya
 lu,kamu
 ngga,tidak
+gak,tidak
+gk,tidak
+gx,tidak
 yoi,iya
 bokap,ayah
 nyokap,ibu
@@ -137,3 +140,5 @@ nnti,nanti
 ni,ini
 kalo,kalau
 contohny,contohnya
+utk,untuk
+ya,iya
