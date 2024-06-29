@@ -141,4 +141,8 @@ ni,ini
 kalo,kalau
 contohny,contohnya
 utk,untuk
-ya,iya
+komfrmasi,konfirmasi
+hilng,hilang
+bagamna,bagaimana
+mengatifkn,mengaktifkan
+tehnologi,teknologi
